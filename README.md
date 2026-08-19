@@ -4,7 +4,7 @@ A multi-round data engineering exercise. Rounds are released one at a time — o
 
 ## Getting started
 
-Each round has its own folder (`round1/`, `round2/`, `round3/`):
+Each round has its own folder (`round1/`, `round2/`, `round3/`, `round4/`):
 
 1. Read that round's `PROBLEM_STATEMENT.md`.
 2. Read `GUIDELINES.md` for evaluation criteria and logistics.
